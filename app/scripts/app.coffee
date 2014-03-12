@@ -11,5 +11,8 @@ angular.module('tachikomaioApp', [
       .when '/',
         templateUrl: 'views/main.html'
         controller: 'MainCtrl'
+      .when '/team',
+        templateUrl: 'views/team.html'
+        controller: 'MainCtrl'
       .otherwise
         redirectTo: '/'
