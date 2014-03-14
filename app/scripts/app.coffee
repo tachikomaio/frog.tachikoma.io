@@ -6,7 +6,8 @@ angular.module('tachikomaioApp', [
   'ngSanitize',
   'ngRoute',
   'angulartics',
-  'angulartics.google.tagmanager'
+  'angulartics.google.tagmanager',
+  'angulartics.google.analytics'
 ])
   .config ($routeProvider) ->
     $routeProvider
