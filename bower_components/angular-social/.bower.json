@@ -1,0 +1,19 @@
+{
+  "name": "angular-social",
+  "main": "angular-social.js",
+  "ignore": [],
+  "dependencies": {
+    "angular": ">= 1.0.6"
+  },
+  "homepage": "https://github.com/esvit/angular-social",
+  "_release": "4a40a12dd8",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "4a40a12dd84a3029d6c7a05a36e3fb924ed6c1ee"
+  },
+  "_source": "git@github.com:esvit/angular-social.git",
+  "_target": "master",
+  "_originalSource": "git@github.com:esvit/angular-social.git",
+  "_direct": true
+}
