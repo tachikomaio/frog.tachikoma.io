@@ -7,7 +7,8 @@ angular.module('tachikomaioApp', [
   'ngRoute',
   'angulartics',
   'angulartics.google.tagmanager',
-  'angulartics.google.analytics'
+  'angulartics.google.analytics',
+  'ngSocial'
 ])
   .config ($routeProvider) ->
     $routeProvider
